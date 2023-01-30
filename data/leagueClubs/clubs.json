@@ -1,0 +1,66 @@
+{
+    "spain": {
+      "1": "villarreal-cf",
+      "2": "rayo-vallecano",
+      "3": "real-madrid",
+      "4": "real-sociedad-de-futbol",
+      "5": "real-betis-balompie",
+      "6": "real-valladolid-club-de-futbol"
+    },
+    "england": {
+      "7": "manchester-united-fc",
+      "8": "manchester-city-fc",
+      "9": "liverpool-fc",
+      "10": "chelsea-fc",
+      "11": "arsenal-fc",
+      "12": "tottenham-hotspur-fc"
+    },
+    "germany": {
+      "13": "bayern-munich",
+      "14": "borussia-dortmund",
+      "15": "borussia-monchengladbach",
+      "16": "rb-leipzig",
+      "17": "wolfsburg",
+      "18": "schalke-04"
+    },
+    "italy": {
+      "19": "juventus",
+      "20": "inter-milan",
+      "21": "ac-milan",
+      "22": "as-roma",
+      "23": "napoli",
+      "24": "atalanta"
+    },
+    "france": {
+      "25": "psg",
+      "26": "olympique-lyon",
+      "27": "olympique-marseille",
+      "28": "lille",
+      "29": "monaco",
+      "30": "rennes"
+    },
+    "netherlands": {
+      "31": "ajax",
+      "32": "psv-eindhoven",
+      "33": "feyenoord",
+      "34": "az-alkmaar",
+      "35": "fc-utrecht",
+      "36": "fc-groningen"
+    },
+    "portugal": {
+      "37": "benfica",
+      "38": "sporting-cp",
+      "39": "fc-porto",
+      "40": "braga",
+      "41": "moreirense",
+      "42": "boavista"
+    },
+    "belgium": {
+      "43": "brussels",
+      "44": "antwerp",
+      "45": "charleroi",
+      "46": "standard-liege",
+      "47": "gent",
+      "48": "club-brugge"
+    }
+}
